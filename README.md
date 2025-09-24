@@ -9,46 +9,24 @@
 
 <div style="display: inline_block"><br>
   <p>💻 Essas são as tecnologias/linguagens que utilizo 👇🏼</p>
-  
-  <!-- Angular -->
   <img align="center" alt="Angular" height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  
-  <!-- Ionic -->
   <img align="center" alt="Ionic" height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
-  
-  <!-- TypeScript -->
   <img align="center" alt="TypeScript" height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  
-  <!-- JavaScript -->
   <img align="center" alt="JavaScript" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <!-- HTML -->
   <img align="center" alt="HTML5" height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  
-  <!-- CSS -->
   <img align="center" alt="CSS3" height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  
-  <!-- SCSS -->
   <img align="center" alt="Sass/SCSS" height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  
-  <!-- Git -->
   <img align="center" alt="Git" height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  
-  <!-- GitHub -->
   <img align="center" alt="GitHub" height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  
-  <!-- RxJS -->
-  <img align="center" alt="RxJS" height="30" width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactivex/reactivex-original.svg">
 </div>
 
   
