@@ -8,16 +8,49 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <p>💻Essas são as tecnologias/linguagens que utilizo👇🏼</p>
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-  <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <p>💻 Essas são as tecnologias/linguagens que utilizo 👇🏼</p>
+  
+  <!-- Angular -->
+  <img align="center" alt="Angular" height="30" width="40" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  
+  <!-- Ionic -->
+  <img align="center" alt="Ionic" height="30" width="40" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
+  
+  <!-- TypeScript -->
+  <img align="center" alt="TypeScript" height="30" width="40" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  
+  <!-- JavaScript -->
+  <img align="center" alt="JavaScript" height="30" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <!-- HTML -->
+  <img align="center" alt="HTML5" height="30" width="40" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  
+  <!-- CSS -->
+  <img align="center" alt="CSS3" height="30" width="40" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  
+  <!-- SCSS -->
+  <img align="center" alt="Sass/SCSS" height="30" width="40" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  
+  <!-- Git -->
+  <img align="center" alt="Git" height="30" width="40" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  
+  <!-- GitHub -->
+  <img align="center" alt="GitHub" height="30" width="40" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  
+  <!-- RxJS -->
+  <img align="center" alt="RxJS" height="30" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactivex/reactivex-original.svg">
 </div>
+
   
 
 <div> <br>
